@@ -12,7 +12,8 @@ def run():
         for event in pygame.event.get():
             if event.type == pygame.QUIT:
                 running = False
-            
+        # events et actions ici
+
         screen.fill((0, 0, 0))
-    
+        # code d'affichage ici
         pygame.display.flip()
