@@ -1,0 +1,1 @@
+from sokoban.game_loop import run

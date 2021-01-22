@@ -1,0 +1,3 @@
+import sokoban
+
+sokoban.run()
